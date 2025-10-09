@@ -23,8 +23,8 @@
 
 ## **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&include_all_commits=true&layout=compact&theme=vision-friendly-dark&card_width=313" alt="Top Languages" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxxspicyboiiixxx&theme=vision-friendly-dark" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberprofali&include_all_commits=true&layout=compact&theme=vision-friendly-dark&card_width=313" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberprofali&theme=vision-friendly-dark" alt="GitHub Streak" height="180px" />
 </p>
 
 ---
