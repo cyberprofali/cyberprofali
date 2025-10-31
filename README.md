@@ -8,7 +8,8 @@
 ## **🤔 About Me**
 - 🔐 **Cybersecurity Consultant** | 🧑‍🏫 **Professor** | 💻 **Open Source Advocate**
 - 🛠 Passionate about **offensive security**, **OS development**, and **system security**.
-- 🏴‍☠️ Active contributor to open-source projects:  
+- 🏴‍☠️ Active contributor to open-source projects:
+  - [City Colleges of Chicago Cybersecurity](https://github.com/https://github.com/City-Colleges-of-Chicago-Cybersecurity)
   - [BlackArch Linux](https://github.com/blackarch)
   - [EndeavourOS](https://github.com/endeavouros-team)
   - [MITRE Caldera](https://github.com/mitre/caldera)
