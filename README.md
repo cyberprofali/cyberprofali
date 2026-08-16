@@ -28,7 +28,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CISSP-ISC2-0066CC?style=flat-square" alt="CISSP" />
   <img src="https://img.shields.io/badge/PNPT-TCM%20Security-111111?style=flat-square" alt="PNPT" />
-  <img src="https://img.shields.io/badge/PJPT-TCM%20Security-111111?style=flat-square" alt="PJPT" />
   <img src="https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Open%20Source-Advocate-149414?style=flat-square" alt="Open Source" />
 </p>
@@ -227,34 +226,6 @@ My research background heavily influences how I approach cybersecurity:
 `Google Cloud`
 `Docker`
 `Virtualization`
-
----
-
-## 🚀 Selected Projects
-
-### 🔐 [Pentest Checklist](https://github.com/cyberprofali/Pentest-Checklist)
-
-A practical project focused on organizing penetration-testing methodology and repeatable security assessment workflows.
-
-**Offensive Security • Methodology • Security Assessments**
-
----
-
-### 🐧 [LamentOS](https://github.com/cyberprofali/LamentOS)
-
-> *Lament the breach, master the Arch.*
-
-A security-oriented Linux project combining my interests in Linux, operating systems, security engineering, and offensive security.
-
-**Linux • Security • Shell • Operating Systems**
-
----
-
-### ⚙️ [Operating Systems](https://github.com/cyberprofali/Operating-Systems)
-
-Operating-system projects and experiments reflecting my long-standing interest in systems programming, OS behavior, and low-level computing.
-
-**Operating Systems • Python • Systems**
 
 ---
 
