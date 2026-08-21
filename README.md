@@ -17,7 +17,7 @@
 - ⚔️ My roots are in **penetration testing and offensive security**.
 - 🐧 I spend a lot of time with **Linux, operating systems, virtualization, and low-level computing**.
 - 🤖 I'm currently exploring **AI security, agents, RAG, and security automation**.
-- 🎓 Ph.D. in Computer Science · **PNPT** · **PJPT** · CISSP in progress.
+- 🎓 Ph.D. in Computer Science · **CISSP** · **PNPT**
 
 ## 🗂️ What I use GitHub for
 
