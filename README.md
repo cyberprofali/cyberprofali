@@ -31,18 +31,6 @@ cyberprofali/
 └── research/            # AI security, HPC, quantum computing, experiments
 ```
 
-Some repositories are finished resources. Others are sandboxes, forks, notes, or half-built ideas I'm using to learn something.
-
-## 📌 A few repositories
-
-- 🧰 [**Linux-Incident-Response**](https://github.com/cyberprofali/Linux-Incident-Response) — Linux live-response and forensics reference.
-- 🐧 [**LamentOS**](https://github.com/cyberprofali/LamentOS) — experimental Arch-based distribution for security work.
-- 🔍 [**vulnerability-scanner**](https://github.com/cyberprofali/vulnerability-scanner) — open-source vulnerability-scanning experiment.
-- 🤝 [**Rizal-Center-Ubuntu-Setup**](https://github.com/cyberprofali/Rizal-Center-Ubuntu-Setup) — repurposing donated laptops with Ubuntu.
-- ⚙️ [**perf-test-bay**](https://github.com/cyberprofali/perf-test-bay) — Linux `perf` and systems-performance sandbox.
-
-[See all repositories →](https://github.com/cyberprofali?tab=repositories)
-
 ## 🛠️ Languages & tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
