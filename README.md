@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Md Ali 👋</h1>
+<h1 align="center">Md Ali, Ph.D., CISSP</h1>
 
 <p align="center">
   I break systems, study how they work, and help people secure them.
